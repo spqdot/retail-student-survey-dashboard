@@ -1,4 +1,4 @@
-# retail-student-survey-dashboard
+# Retail-student-survey-dashboard
 
 Student Retail Spending Analysis Dashboard
 Project Overview

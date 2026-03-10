@@ -71,7 +71,7 @@ Purchase amounts across product categories
 
 Dashboard Preview
 
-![Dashboard]("D:\Shrabani.Personal\Self Project\Power BI\Intellipaat Self Project\Screenshot 2026-03-10 140913.png")
+![Dashboard](Screenshot 2026-03-10 140913.png)
 
 Author
 

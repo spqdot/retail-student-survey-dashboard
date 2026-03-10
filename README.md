@@ -71,7 +71,7 @@ Purchase amounts across product categories
 
 Dashboard Preview
 
-![image alt](D:\Shrabani.Personal\Self Project\Power BI\Intellipaat Self Project\Screenshot 2026-03-10 140913.png)
+![image alt](https://github.com/spqdot/retail-student-survey-dashboard/blob/main/Screenshot%202026-03-10%20140913.png)
 
 Author
 
